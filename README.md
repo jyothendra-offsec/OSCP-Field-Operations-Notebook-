@@ -1,4 +1,4 @@
-# OSCP Field Operations Notebook
+# OSCP-Notes-Template
 
 A structured note-taking and attack-path tracking framework designed for:
 
